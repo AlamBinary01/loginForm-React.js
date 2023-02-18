@@ -39,32 +39,19 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+##About App
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ login form is an interface that allows a user to enter their credentials (usually a username and password) to gain access to a specific application or website. In the case of a web-based login form, it is typically displayed as a page with input fields for the user to enter their username and password, along with a submit button to submit their credentials for verification.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+In a React application, a login form can be created using React components to build the user interface and manage the state of the form. The basic structure of a login form in React might include the following components:
 
-### Code Splitting
+    LoginForm component: This is the main component that contains the form and manages the state of the form inputs.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+    InputField component: This is a reusable component that renders an input field and manages its state. It can be used to render input fields for the username and password.
 
-### Analyzing the Bundle Size
+    SubmitButton component: This is a reusable component that renders a button and handles the submission of the form.
+    
+## Screenshot:
+![image](https://user-images.githubusercontent.com/86626270/219880115-958a3135-1d82-4f25-8b09-e9a7ad0e2864.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
