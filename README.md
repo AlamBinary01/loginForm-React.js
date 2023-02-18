@@ -39,7 +39,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-##About App
+## About App
 
  login form is an interface that allows a user to enter their credentials (usually a username and password) to gain access to a specific application or website. In the case of a web-based login form, it is typically displayed as a page with input fields for the user to enter their username and password, along with a submit button to submit their credentials for verification.
 
